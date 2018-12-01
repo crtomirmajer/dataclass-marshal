@@ -2,7 +2,7 @@ import datetime
 from typing import Any, Dict, List, Optional, Tuple, Union
 import uuid
 
-from dataclass_marshal.core import dataclass, register
+from dataclass_marshal import dataclass, register
 
 
 # Test Classes
